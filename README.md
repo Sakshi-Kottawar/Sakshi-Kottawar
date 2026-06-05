@@ -50,8 +50,6 @@ Senior Full Stack Engineer with **6+ years** building production-grade systems â
 
 ## ðŸ“Š GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshi-Kottawar&show_icons=true&theme=tokyonight&v=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Kottawar&layout=compact&theme=tokyonight&v=1)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sakshi-Kottawar&theme=tokyonight)
 
 ---
@@ -65,10 +63,6 @@ Senior Full Stack Engineer with **6+ years** building production-grade systems â
 ## ðŸ§© Coding Practice
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sakshi_kottawar?theme=dark&font=Baloo_2&ext=heatmap)
-
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=sakshi_kottawar&animated=true&theme=dark)
-
-[![NeetCode](https://img.shields.io/badge/NeetCode-Profile-00B8A3?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/profile/YOUR_NEETCODE_USERNAME)
 
 ---
 
