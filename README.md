@@ -10,7 +10,7 @@
 
 ## 🙋‍♀️ About Me
 
-Senior Full Stack Engineer with **6+ years** building production-grade systems — from database design and backend APIs to polished React/Angular UIs. Former **Director of Software Engineering at Morgan Stanley**, where I drove ~90% latency improvements and architected dashboards from scratch. Currently pursuing an **MS in Computer Science (AI/ML specialization)** at Woolf University.
+Senior Full Stack Engineer with **6+ years** building production-grade systems — from database design and backend APIs to polished React/Angular UIs. Former **SDE III at Morgan Stanley**, where I drove ~90% latency improvements and architected dashboards from scratch. Currently pursuing an **MS in Computer Science (AI/ML specialization)** at Woolf University.
 
 ---
 
